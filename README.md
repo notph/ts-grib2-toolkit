@@ -24,7 +24,7 @@ Ensure you have the following installed:
 Clone the repository:
 
 ```
-git clone https://github.com/[your-username]/ts-grib2-toolkit.git
+git clone https://github.com/meirborowski/ts-grib2-toolkit.git
 cd ts-grib2-toolkit
 ```
 
@@ -32,14 +32,6 @@ Install the dependencies:
 
 ```
 npm install
-```
-
-### Development
-
-To run the development environment:
-
-```
-npm run dev
 ```
 
 ## Roadmap
