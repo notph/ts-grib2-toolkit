@@ -40,7 +40,7 @@ The development is organized into milestones. We are currently working on initia
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](#). Please follow the [contribution guidelines](#).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](#). Please follow the [contribution guidelines](https://github.com/meirborowski/ts-grib2-toolkit/blob/main/CONTRIBUTING.md).
 
 ## License
 
