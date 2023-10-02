@@ -36,7 +36,7 @@ npm install
 
 ## Roadmap
 
-The development is organized into milestones. We are currently working on initial setup and fundamental designs. Check out our [development tracking project](#) for more details.
+The development is organized into milestones. We are currently working on initial setup and fundamental designs. Check out our [development tracking project](https://github.com/users/meirborowski/projects/1/views/1) for more details.
 
 ## Contributing
 
