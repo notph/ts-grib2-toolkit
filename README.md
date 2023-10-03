@@ -1,5 +1,7 @@
 # ts-grib2-toolkit
 
+![CI](https://github.com/meirborowski/ts-grib2-toolkit/actions/workflows/main.yml/badge.svg)
+
 A toolkit for handling GRIB2 files using TypeScript.
 
 ## Getting Started
